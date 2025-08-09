@@ -1,5 +1,5 @@
 # Primeiro-Projeto
 
-Meu primeiro repositório no GitHud.
+Meu primeiro repositório no GitHub.
 
 Teste de Repositório!
